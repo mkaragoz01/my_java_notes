@@ -1,1 +1,1 @@
-# my_java_notes
+Java notes.
